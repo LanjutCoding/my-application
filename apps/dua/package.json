@@ -1,0 +1,14 @@
+{
+  "name": "dua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
